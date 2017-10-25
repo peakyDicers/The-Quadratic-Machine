@@ -1,0 +1,4 @@
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Quadratic Machine\Quadratic Machine\bin\Debug\Quadratic Machine.exe
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Quadratic Machine\Quadratic Machine\bin\Debug\Quadratic Machine.pdb
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Quadratic Machine\Quadratic Machine\obj\x86\Debug\Quadratic Machine.exe
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Quadratic Machine\Quadratic Machine\obj\x86\Debug\Quadratic Machine.pdb
